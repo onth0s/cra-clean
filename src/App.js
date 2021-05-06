@@ -1,7 +1,7 @@
 function App() {
   return (
 		<div className="container">
-			Completetly clean and empty 
+			Completely clean and empty 
 			<span
 				style={{
 					fontStyle: 'italic',
