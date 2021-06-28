@@ -1,13 +1,8 @@
 function App() {
-  return (
-		<div className="container">
-			Completely clean and empty 
-			<span
-				style={{
-					fontStyle: 'italic',
-					margin: '0 6px'
-				}}
-			>create-react-app</span>
+	return (
+		<div className="container bg-blue-200">
+			Completely clean and empty
+			<span className="mx-1 italic">create-react-app</span>
 			template.
 		</div>
 	);
